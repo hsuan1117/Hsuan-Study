@@ -1,6 +1,8 @@
-## 歡迎到Hsuan Study參觀
-
+## Hsuan Study
 你可以嘗試 [打開TNFSHTools](hs://TNFSH) 來測試你的「Hsuan Study」App是否正常
+
+## 授權條款
+本軟體採用GPL V3授權
 
 ## 功能
 [新聞](hs://NEWS)
