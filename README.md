@@ -2,7 +2,7 @@
 你可以嘗試 [打開TNFSHTools](hs://TNFSH) 來測試你的「Hsuan Study」App是否正常
 
 ## 授權條款
-本軟體採用GPL V3授權
+本專案採用[GPL V3授權](https://github.com/hsuan1117/Hsuan-Study/blob/master/LICENSE)
 
 ## 功能
 [新聞](hs://NEWS)
